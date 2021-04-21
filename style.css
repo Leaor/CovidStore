@@ -1,0 +1,48 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td {
+    height: 4vh;
+    width: 8%;
+}
+
+table {
+    border: solid grey 1px;
+    padding: 1%;
+}
+
+div#table {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 6vh;
+}
+
+div#table h1, div#table p {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+div#table h1 {
+    top: 30%;
+    color: white;
+}
+
+div#table h1#comp {
+    color: black;
+    margin-bottom: 6vh;
+}
+
+div#instructions {
+    display: block;
+    margin-top: 6vh;
+    width: 50%;
+}
+
+hr {
+    width: 50%;
+    margin-right: 70%;
+}
