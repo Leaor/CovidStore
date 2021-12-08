@@ -1,5 +1,7 @@
 # 🧻 Covid Store Christmas Update  🛒
 
+**MAJOR BUG WITH FIREFOX!**
+
 Requires Download To Play In Browser!
 
 Christmas Update!
