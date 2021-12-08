@@ -1,6 +1,8 @@
-# 🧻 Covid Store 🛒
+# 🧻 Covid Store Christmas Update  🛒
 
 Requires Download To Play In Browser!
+
+Christmas Update!
 
 <center>
 
@@ -8,7 +10,7 @@ Requires Download To Play In Browser!
 ## Icons
 --------------
 - 🛒 - Shopping Cart (Player)
-- 👨 - Person
+- 🎅 - Person
 - 🧱 - Wall
 - 🧻 - ToiletPaper
 - 💥 - Collision
