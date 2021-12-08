@@ -1,6 +1,6 @@
 # 🧻 Covid Store 🛒
 
-**Play it now!** https://covidstore.netlify.app/
+Requires Download To Play In Browser!
 
 <center>
 
