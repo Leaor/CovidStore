@@ -1,10 +1,24 @@
 maps = [
     [
+        '. . . . . . . . . . .'.split(' '),
+        '. . . . . . . . . . .'.split(' '),
+        'c . . . . . . . . . t'.split(' '),
+        '. . . . . . . . . . .'.split(' '),
+        '. . . . . . . . . . .'.split(' ')
+    ],
+    [
         '. . . . . t . . . t .'.split(' '),
         '. . . . . . . . . . .'.split(' '),
         'c . . . . t . . . . t'.split(' '),
         '. . . . . . . . . . .'.split(' '),
         '. . . . . t . . t . .'.split(' ')
+    ],
+    [
+        '. . . . . p . . . t .'.split(' '),
+        '. . w . . . . . w . .'.split(' '),
+        'c . w w w w . . w . t'.split(' '),
+        '. . w . . . . . w . .'.split(' '),
+        '. . . . . p . . t . .'.split(' ')
     ],
     [
         'w . . . . . . . w . t'.split(' '),
@@ -402,6 +416,8 @@ descs = [
     "Covid-19 Wave #424",
     "Covid-19 Wave #425",
     "Covid-19 Wave #426",
+    "Covid-19 Wave #427",
+    "Covid-19 Wave #428",
     "Another remake of a hard level. Some people will never find it, but still succeed.",
     `You've completed the game of Covid Store <br>
   I hope you think 'twas a lot of fun <br>
