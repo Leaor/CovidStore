@@ -318,7 +318,7 @@ maps = [
         '. . . . . = . . . . .'.split(' '),
         '. . . . . w . . . . .'.split(' '),
         'c . x . . = . . . . t'.split(' '),
-        '. . . . . = . . . . .'.split(' '),
+        '. . . . . = . p . . .'.split(' '),
         '. . . . . w . . . . .'.split(' ')
     ],
     [
@@ -343,11 +343,11 @@ maps = [
         'k . f . w s e w . x c'.split(' ')
     ],
     [
-        'p v . . . . . . w w w'.split(' '),
+        'p v . .p. . . . w w w'.split(' '),
         't w g . . w ~ . . d c'.split(' '),
-        'g w . . = k v ~ . . -'.split(' '),
+        'g w . p = k v ~ . d -'.split(' '),
         'k w g . . w ~ . . . .'.split(' '),
-        'p = . . . . . p w w w'.split(' ')
+        'p = . . . p . p w w w'.split(' ')
     ],
     []
 ]
