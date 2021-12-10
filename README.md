@@ -29,7 +29,7 @@ Christmas Update!
 - ⚠️- Water
 - 🧱 - Secret Passageway
 - 🔲 - Secret Passageway
-- 🥽 - Xray Glasses
+- 🥽 - Xray Glasses (Temporary Removed)
 - 🌵 - Cactus
 
 
