@@ -364,6 +364,28 @@ maps = [
         'k w g . . w ~ . . . .'.split(' '),
         'p = . . . p . p w w w'.split(' ')
     ],
+    [
+        '. . . . . . . . p k .'.split(' '),
+        'w w w w w = w w w w w'.split(' '),
+        'c . . . . . . . . v t'.split(' '),
+        'w w w w w = w w w w w'.split(' '),
+        '. . . g . . . . p . .'.split(' ')
+    ],
+    [
+        'g v . .p. . . . w w w'.split(' '),
+        't w p w . w ~ . . d c'.split(' '),
+        'p w . p s k v ~ . d -'.split(' '),
+        'k w p w . w ~ . . w .'.split(' '),
+        'p = . . . p . p w p g'.split(' ')
+    ],
+    [
+        '. . k . g g g g p w t'.split(' '),
+        '. . . . w w w w . w .'.split(' '),
+        '. . . . . . = . p w .'.split(' '),
+        '. . w . w w w w . w .'.split(' '),
+        'c v t w g g g g p = .'.split(' ')
+    ],
+
     []
 ]
 
@@ -419,6 +441,8 @@ descs = [
     "Covid-19 Wave #426",
     "Covid-19 Wave #427",
     "Covid-19 Wave #428",
+    "Covid-19 Wave #429",
+    "Covid-19 Wave #430",
     "Another remake of a hard level. Some people will never find it, but still succeed.",
     `You've completed the game of Covid Store <br>
   I hope you think 'twas a lot of fun <br>
