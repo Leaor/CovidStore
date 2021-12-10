@@ -427,22 +427,22 @@ descs = [
     "Covid-19 Wave # 414 | Christmas Update! 🎄",
     "Race 2.0",
     "The janitor hasn't been on duty THE FLOOR IS ...",
-    "Covid-19 Wave #415",
-    "Covid-19 Wave #416",
-    "Covid-19 Wave #417",
-    "Covid-19 Wave #418",
-    "Covid-19 Wave #419",
-    "Covid-19 Wave #420",
-    "Covid-19 Wave #421",
-    "Covid-19 Wave #422",
-    "Covid-19 Wave #423",
-    "Covid-19 Wave #424",
-    "Covid-19 Wave #425",
-    "Covid-19 Wave #426",
-    "Covid-19 Wave #427",
-    "Covid-19 Wave #428",
-    "Covid-19 Wave #429",
-    "Covid-19 Wave #430",
+    "Covid-19 Wave #415 | Christmas Update! 🎄",
+    "Covid-19 Wave #416 | Christmas Update! 🎄",
+    "Covid-19 Wave #417 | Christmas Update! 🎄",
+    "Covid-19 Wave #418 | Christmas Update! 🎄",
+    "Covid-19 Wave #419 | Christmas Update! 🎄",
+    "Covid-19 Wave #420 | Christmas Update! 🎄",
+    "Covid-19 Wave #421 | Christmas Update! 🎄",
+    "Covid-19 Wave #422 | Christmas Update! 🎄",
+    "Covid-19 Wave #423 | Christmas Update! 🎄",
+    "Covid-19 Wave #424 | Christmas Update! 🎄",
+    "Covid-19 Wave #425 | Christmas Update! 🎄",
+    "Covid-19 Wave #426 | Christmas Update! 🎄",
+    "Covid-19 Wave #427 | Christmas Update! 🎄",
+    "Covid-19 Wave #428 | Christmas Update! 🎄",
+    "Covid-19 Wave #429 | Christmas Update! 🎄",
+    "Covid-19 Wave #430 | Christmas Update! 🎄",
     "Another remake of a hard level. Some people will never find it, but still succeed.",
     `You've completed the game of Covid Store <br>
   I hope you think 'twas a lot of fun <br>
@@ -1081,7 +1081,3 @@ document.addEventListener("keydown", getdirection)
 window.onload = (function(){
     loadmap(currlev)
 })
-
-
-
-
